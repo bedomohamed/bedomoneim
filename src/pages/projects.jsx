@@ -21,90 +21,90 @@ const projects = [
     },
     logo: skyline,
   },
-  {
-    name: 'Logo Maker AI',
-    description:
-      'Crafted in Figma for a stunning UI and built with Next.js and Tailwind CSS for dynamic, responsive design. Optimized on Vercel with Stripe and Replicate API integration for seamless user experience. Backend powered by Node.js, Express, and MongoDB ensures efficient data handling, while Google API enhances security for user authentication.',
-    link: {
-      href: 'https://github.com/DarkInventor/logomaker',
-      label: 'Github',
-    },
-    logo: orb,
-  },
-  {
-    name: 'Instagen: Bringing Vision to Life',
-    description:
-      "Crafted an intuitive UI/UX with precision, guided by Figma's design principles. Unveiled the innovative Image Describer + Instagram Caption Generator, providing users with curated GPT-generated content. Built using Next.js, Tailwind CSS, and integrated with GPT-3 for dynamic content generation.",
-    link: { href: 'https://github.com/DarkInventor/InstaCaption', label: 'Github' },
-    logo: logoHeart,
-  },
-  {
-    name: 'Buildfast (Monthly Revenue: $20, Annual Revenue: $240)',
-    description:
-      'A user-centric platform designed in Figma and developed with React, JavaScript, and Tailwind CSS. Features dynamic landing pages powered by Vercel, OpenAI Vision API, and DALL·E 3. Collaborative design and development facilitated through Figma and GitHub, with Firebase ensuring efficient data management.',
-    link: {
-      href: 'https://buildfast.site',
-      label: 'Online',
-    },
-    logo: logoAnimaginary,
-  },
-  {
-    name: 'Boilerplate',
-    description:
-      'A light-weight version of taxonomy to build SaaS superfast. Utilizes Shad-CN UI, Next.js 14, TypeScript, Prisma, PlanetScale, NextAuth, and Stripe for a comprehensive development experience.',
-    link: {
-      href: 'https://boilerplatee.vercel.app/',
-      label: 'Online',
-    },
-    logo: logoHeart, // Updated logo variable
-  },
-  {
-    name: 'Designfast',
-    description:
-      'A comprehensive Figma Design Kit featuring over 100 components, 15 Landing Pages, and 10 Full Design templates. Built with Next.js, Tailwind CSS, and integrated with Stripe for a seamless design to development workflow.',
-    link: {
-      href: 'https://www.designfast.site/',
-      label: 'Online',
-    },
-    logo: orb, // Updated logo variable
-  },
-  {
-    name: 'Air-Quality',
-    description:
-      'The Air-Quality project forecasts PM2.5 & PM10 levels using Python, integrating Pandas and NumPy for data preprocessing and analytics. Advanced regression models enable precise, real-time environmental insights.',
-    link: {
-      href: 'https://github.com/DarkInventor/Air-Quality',
-      label: 'Github',
-    },
-    logo: logoOpenShuttle, // Updated logo variable
-  },
-  {
-    name: 'WindowsAssistant',
-    description:
-      'An innovative Python-based personal assistant, WindowsAssistant simplifies daily tasks through advanced looping, leveraging pyttsx3 for voice interactions, and TensorFlow for intelligent decision-making.',
-    link: {
-      href: 'https://github.com/DarkInventor/WindowsAssistant',
-      label: 'Github',
-    },
-    logo: logoAnimaginary, // Updated logo variable
-  },
-  {
-    name: 'VisionSystem',
-    description:
-      'VisionSystem is a cutting-edge solution for individuals with visual impairments, leveraging Python, OpenCV, and YOLO for real-time object detection. Built on a Raspberry Pi 4B, it integrates a camera, speaker, motion, and pulse sensors to provide auditory feedback, enhancing spatial awareness and interaction with the environment.',
-    link: {
-      href: 'https://github.com/DarkInventor/VisionSystem',
-      label: 'Github',
-    },
-    logo: youphoria, // Updated logo variable
-  },
-  {
-    name: 'OpenShuttle',
-    description:
-      'The schematics for the first rocket I designed that successfully made it to orbit.',
-    link: { href: '#', label: 'github.com' },
-    logo: logoOpenShuttle,
-  },
+  // {
+  //   name: 'Logo Maker AI',
+  //   description:
+  //     'Crafted in Figma for a stunning UI and built with Next.js and Tailwind CSS for dynamic, responsive design. Optimized on Vercel with Stripe and Replicate API integration for seamless user experience. Backend powered by Node.js, Express, and MongoDB ensures efficient data handling, while Google API enhances security for user authentication.',
+  //   link: {
+  //     href: 'https://github.com/DarkInventor/logomaker',
+  //     label: 'Github',
+  //   },
+  //   logo: orb,
+  // },
+  // {
+  //   name: 'Instagen: Bringing Vision to Life',
+  //   description:
+  //     "Crafted an intuitive UI/UX with precision, guided by Figma's design principles. Unveiled the innovative Image Describer + Instagram Caption Generator, providing users with curated GPT-generated content. Built using Next.js, Tailwind CSS, and integrated with GPT-3 for dynamic content generation.",
+  //   link: { href: 'https://github.com/DarkInventor/InstaCaption', label: 'Github' },
+  //   logo: logoHeart,
+  // },
+  // {
+  //   name: 'Buildfast (Monthly Revenue: $20, Annual Revenue: $240)',
+  //   description:
+  //     'A user-centric platform designed in Figma and developed with React, JavaScript, and Tailwind CSS. Features dynamic landing pages powered by Vercel, OpenAI Vision API, and DALL·E 3. Collaborative design and development facilitated through Figma and GitHub, with Firebase ensuring efficient data management.',
+  //   link: {
+  //     href: 'https://buildfast.site',
+  //     label: 'Online',
+  //   },
+  //   logo: logoAnimaginary,
+  // },
+  // {
+  //   name: 'Boilerplate',
+  //   description:
+  //     'A light-weight version of taxonomy to build SaaS superfast. Utilizes Shad-CN UI, Next.js 14, TypeScript, Prisma, PlanetScale, NextAuth, and Stripe for a comprehensive development experience.',
+  //   link: {
+  //     href: 'https://boilerplatee.vercel.app/',
+  //     label: 'Online',
+  //   },
+  //   logo: logoHeart, // Updated logo variable
+  // },
+  // {
+  //   name: 'Designfast',
+  //   description:
+  //     'A comprehensive Figma Design Kit featuring over 100 components, 15 Landing Pages, and 10 Full Design templates. Built with Next.js, Tailwind CSS, and integrated with Stripe for a seamless design to development workflow.',
+  //   link: {
+  //     href: 'https://www.designfast.site/',
+  //     label: 'Online',
+  //   },
+  //   logo: orb, // Updated logo variable
+  // },
+  // {
+  //   name: 'Air-Quality',
+  //   description:
+  //     'The Air-Quality project forecasts PM2.5 & PM10 levels using Python, integrating Pandas and NumPy for data preprocessing and analytics. Advanced regression models enable precise, real-time environmental insights.',
+  //   link: {
+  //     href: 'https://github.com/DarkInventor/Air-Quality',
+  //     label: 'Github',
+  //   },
+  //   logo: logoOpenShuttle, // Updated logo variable
+  // },
+  // {
+  //   name: 'WindowsAssistant',
+  //   description:
+  //     'An innovative Python-based personal assistant, WindowsAssistant simplifies daily tasks through advanced looping, leveraging pyttsx3 for voice interactions, and TensorFlow for intelligent decision-making.',
+  //   link: {
+  //     href: 'https://github.com/DarkInventor/WindowsAssistant',
+  //     label: 'Github',
+  //   },
+  //   logo: logoAnimaginary, // Updated logo variable
+  // },
+  // {
+  //   name: 'VisionSystem',
+  //   description:
+  //     'VisionSystem is a cutting-edge solution for individuals with visual impairments, leveraging Python, OpenCV, and YOLO for real-time object detection. Built on a Raspberry Pi 4B, it integrates a camera, speaker, motion, and pulse sensors to provide auditory feedback, enhancing spatial awareness and interaction with the environment.',
+  //   link: {
+  //     href: 'https://github.com/DarkInventor/VisionSystem',
+  //     label: 'Github',
+  //   },
+  //   logo: youphoria, // Updated logo variable
+  // },
+  // {
+  //   name: 'OpenShuttle',
+  //   description:
+  //     'The schematics for the first rocket I designed that successfully made it to orbit.',
+  //   link: { href: '#', label: 'github.com' },
+  //   logo: logoOpenShuttle,
+  // },
 ]
 
 function LinkIcon(props) {
