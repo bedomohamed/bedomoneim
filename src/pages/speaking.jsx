@@ -29,7 +29,7 @@ export default function Speaking() {
   return (
     <>
       <Head>
-        <title>Experience - Kathan Mehta</title>
+        <title>Experience - Abdelrahman Abdelmoneim</title>
         <meta
           name="description"
           content="If you are looking for your next guest speaker, I'm your girl!"

@@ -280,7 +280,7 @@ export default function Home({ articles }) {
         <meta property="og:url" content="https://kathann.vercel.app/home" />
         <meta
           property="og:title"
-          content="Kathan Mehta - Full Stack Developer/Software Engineer "
+          content="Abdelrahman Abdelmoneim - Full Stack Developer/Software Engineer "
         />
         <meta
           property="og:description"
@@ -295,7 +295,7 @@ export default function Home({ articles }) {
         <meta property="twitter:url" content="https://kathann.vercel.app/home" />
         <meta
           property="twitter:title"
-          content="Kathan Mehta - Full Stack Developer/Software Engineer "
+          content="Abdelrahman Abdelmoneim - Full Stack Developer/Software Engineer "
         />
         <meta
           property="twitter:description"

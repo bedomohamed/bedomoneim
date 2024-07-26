@@ -41,7 +41,7 @@ export default function Document() {
       <Head>
         <meta
           name="title"
-          content="Kathan Mehta - Full Stack Developer/Software Engineer "
+          content="Abdelrahman Abdelmoneim - Full Stack Developer/Software Engineer "
         />
         <meta
           name="description"
@@ -52,7 +52,7 @@ export default function Document() {
         <meta property="og:url" content="https://kathann.vercel.app/home" />
         <meta
           property="og:title"
-          content="Kathan Mehta - Full Stack Developer/Software Engineer "
+          content="Abdelrahman Abdelmoneim - Full Stack Developer/Software Engineer "
         />
         <meta
           property="og:description"
@@ -60,14 +60,14 @@ export default function Document() {
         />
         <meta
           property="og:image"
-          content="https://pub-0cd6f9d4131f4f79ac40219248ae64db.r2.dev/Screenshot%202024-07-19%20at%202.36.33%E2%80%AFAM.png"
+          content=""
         />
 
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://kathann.vercel.app/home" />
         <meta
           property="twitter:title"
-          content="Kathan Mehta - Full Stack Developer/Software Engineer "
+          content="Abdelrahman Abdelmoneim - Full Stack Developer/Software Engineer "
         />
         <meta
           property="twitter:description"
@@ -75,7 +75,7 @@ export default function Document() {
         />
         <meta
           property="twitter:image"
-          content="https://pub-0cd6f9d4131f4f79ac40219248ae64db.r2.dev/Screenshot%202024-07-19%20at%202.36.33%E2%80%AFAM.png"
+          content=""
         />
 
         <script dangerouslySetInnerHTML={{ __html: modeScript }} />
