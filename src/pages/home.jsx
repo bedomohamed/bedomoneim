@@ -22,7 +22,7 @@ import logoFYPM from '@/images/logos/westernpu.png'
 import logoGWC from '@/images/logos/buyerfolio.jpeg'
 import otis from '@/images/logos/otis.png'
 import learningAZ from '@/images/logos/learningAZ.jpeg'
-import skyline from '@/images/logos/SkyLine_Logo_dark.png'
+import skyline from '@/images/logos/skyLine_Logo_dark.png'
 
 import logoTXST from '@/images/logos/txstStar.png'
 import halcyoncore from '@/images/logos/buildspace.png'

@@ -7,7 +7,7 @@ import logoAnimaginary from '@/images/logos/animaginary.svg'
 import youphoria from '@/images/logos/YOUphoria.png'
 import orb from '@/images/logos/orb.gif'
 import logoOpenShuttle from '@/images/logos/open-shuttle.svg'
-import skyline from '@/images/logos/SkyLine_Logo_dark.png'
+import skyline from '@/images/logos/skyLine_Logo_dark.png'
 import logoHeart from '@/images/logos/gwc.png'
 
 const projects = [
