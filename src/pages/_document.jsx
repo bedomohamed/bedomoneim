@@ -45,7 +45,7 @@ export default function Document() {
         />
         <meta
           name="description"
-          content="I'm Kathan, full stack developer/software engineer. I left my home @ 21 (🇮🇳-🇨🇦) to become Independent. I am on my journey to exploring the world of Softwares and AI."
+          content="I'm Abdelrahman, full stack developer/software engineer. I am on my journey to exploring the world of Softwares and AI."
         />
 
         <meta property="og:type" content="website" />
@@ -56,7 +56,7 @@ export default function Document() {
         />
         <meta
           property="og:description"
-          content="I'm Kathan, full stack developer/software engineer. I left my home @ 21 (🇮🇳-🇨🇦) to become Independent. I am on my journey to exploring the world of Softwares and AI."
+          content="I'm Kathan, full stack developer/software engineer.I am on my journey to exploring the world of Softwares and AI."
         />
         <meta
           property="og:image"
@@ -64,14 +64,14 @@ export default function Document() {
         />
 
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://kathann.vercel.app/home" />
+        <meta property="twitter:url" content="https://bedomoeim.vercel.app/home" />
         <meta
           property="twitter:title"
           content="Abdelrahman Abdelmoneim - Full Stack Developer/Software Engineer "
         />
         <meta
           property="twitter:description"
-          content="I'm Kathan, full stack developer/software engineer. I left my home @ 21 (🇮🇳-🇨🇦) to become Independent. I am on my journey to exploring the world of Softwares and AI."
+          content="I'm Abdelrahman, full stack developer/software engineer. I am on my journey to exploring the world of Softwares and AI."
         />
         <meta
           property="twitter:image"
