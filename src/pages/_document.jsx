@@ -56,7 +56,7 @@ export default function Document() {
         />
         <meta
           property="og:description"
-          content="I'm Kathan, full stack developer/software engineer.I am on my journey to exploring the world of Softwares and AI."
+          content="I'm Abdelrahman, full stack developer/software engineer.I am on my journey to exploring the world of Softwares and AI."
         />
         <meta
           property="og:image"

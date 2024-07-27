@@ -299,7 +299,7 @@ export default function Home({ articles }) {
         />
         <meta
           property="twitter:description"
-          content="I'm Kathan, full stack developer/software engineer.   (🇮🇳-🇨🇦) to become Independent. I am on my journey to exploring the world of Softwares and AI."
+          content="I'm Abdelrahman, full stack developer/software engineer.   (🇮🇳-🇨🇦) to become Independent. I am on my journey to exploring the world of Softwares and AI."
         />
         <meta
           property="twitter:image"
